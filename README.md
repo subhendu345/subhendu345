@@ -4,7 +4,7 @@ Hi there, I'm Subhendu Kumar Parhi 👋
 
 Welcome to my GitHub profile! I’m passionate about solving real-world problems through technology and continuously improving my skills in DevOps, cloud computing, and cybersecurity.
 
-🌱 About Me
+🌱 About Me :-
 
 🎓 Currently pursuing a Bachelor of Computer Applications (BCA) (2022–2025).
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m passionate about solving real-world problems
 
 🌍 Based in Odisha, India.
 
-🛠️ Tech Stack
+🛠️ Tech Stack :-
 
 DevOps Tools: Docker, Jenkins, Git, GitHub, Terraform (Basics)
 
@@ -30,15 +30,14 @@ Cybersecurity Exploration: Honeypot Deployment, Traffic Analysis, OpenVPN Config
 
 Networking Basics: TCP/IP, OSI Model
 
-🌟 Learning Journey
+🌟 Learning Journey :-
 
 Learning Platforms: Roadmap.sh, ClassCentral, W3Schools
 
 YouTube Channels: NetworkChuck, Edureka, Cisco, IBM
 
-🛍️ Contact Me
+🛍️ Contact Me :-
 
 Email: parhisubhendu20@gmail.com
-
 LinkedIn: linkedin.com/in/subhendu-parhi
 
