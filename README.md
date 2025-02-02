@@ -1,41 +1,44 @@
-# Hi there, I'm Subhendu Kumar Parhi 👋
+Hi there, I'm Subhendu Kumar Parhi 👋
 
-🌟 *Aspiring DevOps & Cybersecurity Engineer*  
+🌟 Aspiring DevOps & Cybersecurity Engineer
 
-Welcome to my GitHub profile! I’m passionate about solving real-world problems through technology and continuously improving my skills in DevOps, cloud computing, and cybersecurity.  
+Welcome to my GitHub profile! I’m passionate about solving real-world problems through technology and continuously improving my skills in DevOps, cloud computing, and cybersecurity.
 
----
+🌱 About Me
 
-### 🌱 **About Me**
-- 🎓 Currently pursuing a **Bachelor of Computer Applications (BCA)** (2022–2025).  
-- 🚀 Hands-on experience with **AWS**, **DevOps**, and **Grafana** through real-world projects.  
-- 🔍 Exploring **Cybersecurity and Ethical Hacking** (Hack The Box, Cybrary).  
-- 📖 Learning **Python** to automate tasks and build custom scripts.  
-- 🌍 Based in Odisha, India.
+🎓 Currently pursuing a Bachelor of Computer Applications (BCA) (2022–2025).
 
----
+🚀 Hands-on experience with AWS, DevOps, and Linux Distributions (Ubuntu, Kali).
 
-### 🛠 **Tech Stack**
-- **DevOps Tools**: Docker, Jenkins, Git, 
-- **Cloud Platforms**: AWS, Gcp, IBM 
-- **Monitoring Tools**: Cloudwatch, Grafana, Nginx
-- **Programming**: Python, Bash, JavaScript (Basics)  
-- **Cybersecurity**: Honeypot Deployment, OpenVPN Configurations  
+🔍 Exploring Cybersecurity and Ethical Hacking (Hack The Box, Cybrary, PortSwigger).
 
----
+📖 Learning Networking from Cisco, GeeksforGeeks, and freeCodeCamp.
 
-### 🌟 **Featured Projects**
-1. **[Peace Garden Application](https://github.com/subhendu345/peace-garden-application)**  
-   - Role: Deployment and security configuration team  
-   - Tools: AWS, Grafana, Terraform  
-   - Highlights: Cloud cost optimization, honeypot deployment, OpenVPN configuration  
+🌍 Based in Odisha, India.
 
-2. **[Osintgram Exploration](https://github.com/subhendu345/osintgram-ethical-hacking-tool)**  
-   - Role: Ethical hacking tool exploration  
-   - Tools: Python, Open-Source  
+🛠️ Tech Stack
 
----
+DevOps Tools: Docker, Jenkins, Git, GitHub, Terraform (Basics)
 
-### 📫 **Contact Me**
-- Email: [parhisubhendu20@gmail.com](mailto:parhisubhendu20@gmail.com)  
-- LinkedIn: [linkedin.com/in/subhendu-parhi](https://www.linkedin.com/in/subhendu-parhi)
+Cloud Platforms: AWS (EC2, VPC, Route 53, CloudWatch, IAM)
+
+Operating Systems: Ubuntu, Kali Linux
+
+Networking Tools: Nmap, Wireshark, Cisco Packet Tracer
+
+Cybersecurity Exploration: Honeypot Deployment, Traffic Analysis, OpenVPN Configurations
+
+Networking Basics: TCP/IP, OSI Model
+
+🌟 Learning Journey
+
+Learning Platforms: Roadmap.sh, ClassCentral, W3Schools
+
+YouTube Channels: NetworkChuck, Edureka, Cisco, IBM
+
+🛍️ Contact Me
+
+Email: parhisubhendu20@gmail.com
+
+LinkedIn: linkedin.com/in/subhendu-parhi
+
