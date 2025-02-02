@@ -1,6 +1,6 @@
 Hi there, I'm Subhendu Kumar Parhi 👋
 
-🌟 Aspiring DevOps & Cybersecurity Engineer
+🌟 Aspiring DevOps & Cybersecurity Enthusiast
 
 Welcome to my GitHub profile! I’m passionate about solving real-world problems through technology and continuously improving my skills in DevOps, cloud computing, and cybersecurity.
 
