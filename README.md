@@ -47,5 +47,5 @@ YouTube Channels :- NetworkChuck, Edureka, Cisco, IBM
 
 
 Email :- parhisubhendu20@gmail.com
-LinkedIn :- linkedin.com/in/subhendu-parhi
+LinkedIn :- www.linkedin.com/in/subhendu-parhi
 
