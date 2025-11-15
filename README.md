@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m passionate about solving real-world problems
 🌱 About Me :-
 
 
-🎓 ompleted Bachelor of Computer Applications (BCA) (2022–2025).
+🎓 Completed Bachelor of Computer Applications (BCA) (2022–2025).
 
 🚀 Hands-on experience with AWS, DevOps, and Linux Distributions (Ubuntu, Kali).
 
