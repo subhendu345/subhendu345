@@ -97,7 +97,7 @@ I love building real-world projects and learning modern infrastructure technolog
 
 - 📧 Email: **parhisubhendu20@gmail.com**
 - 🔗 LinkedIn: [https://linkedin.com/in/subhendu-parhi](https://linkedin.com/in/subhendu-parhi)  
-- 🌍 Portfolio: [https://subhendu.netlify.app](https://subhendu.netlify.app)  
+- 🌍 Portfolio: [https://subhendu1.netlify.app](https://subhendu1.netlify.app)  
 
 ---
 
