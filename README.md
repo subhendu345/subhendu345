@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gh-proxy.com/https://github-readme-stats.vercel.app/api?username=subhendu345" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Subhendu%20Kumar%20Parhi&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">🚀 Aspiring DevOps & Cybersecurity Engineer</h2>
