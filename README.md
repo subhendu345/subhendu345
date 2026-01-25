@@ -21,24 +21,20 @@ Welcome to my GitHub profile! I’m passionate about solving real-world problems
 
 🛠️ Tech Stack :-
 
+DevOps Tools: Docker, Jenkins, Git, GitHub, Terraform (Basics)
 
-DevOps Tools :- Docker, Jenkins, Git, GitHub, Terraform (Basics)
+Cloud Platforms: AWS (EC2, VPC, Route 53, CloudWatch, IAM)
 
-Cloud Platforms :- AWS (EC2, VPC, Route 53, CloudWatch, IAM)
+Operating Systems: Ubuntu, Kali Linux
 
-Operating Systems :- Ubuntu, Kali Linux
-
-Networking Tools :- Nmap, Wireshark, Cisco Packet Tracer
-
-Cybersecurity Exploration :- Honeypot Deployment, Traffic Analysis, OpenVPN Configurations
-
-Networking Basics :- TCP/IP, OSI Model
+Cybersecurity Exploration: Linux security, Honeypot Deployment, Traffic Analysis, OpenVPN Configurations
+Networking Basics: TCP/IP, OSI Model
 
 
 🌟 Learning Journey :-
 
 
-Learning Platforms :- Roadmap.sh, ClassCentral, W3Schools
+Learning Platforms :- Roadmap.sh, ClassCentral, W3Schools,tryhackme,hack the box,overthewire.
 
 YouTube Channels :- NetworkChuck, Edureka, Cisco, IBM
 
