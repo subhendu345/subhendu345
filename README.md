@@ -1,47 +1,57 @@
-Hi there, I'm Subhendu Kumar Parhi 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Subhendu%20Parhi&fontSize=40&fontAlignY=35" />
+</p>
 
-🌟 Aspiring DevOps & Cybersecurity Enthusiast
+<h2 align="center">DevOps & Cybersecurity Enthusiast 🚀</h2>
 
-Welcome to my GitHub profile! I’m passionate about solving real-world problems through technology and continuously improving my skills in DevOps, cloud computing, and cybersecurity.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=DevOps+Engineer;Cybersecurity+Learner;Linux+Administrator;Cloud+Enthusiast&center=true&width=500&height=40">
+</p>
 
+---
 
-🌱 About Me :-
+## 🛠 Tech Stack
 
+### 💻 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-🎓 Completed Bachelor of Computer Applications (BCA) (2022–2025).
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-🚀 Hands-on experience with AWS, DevOps, and Linux Distributions (Ubuntu, Kali).
+### 🌐 Networking & Security
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
 
-🔍 Exploring Cybersecurity and Ethical Hacking (Hack The Box, Cybrary, PortSwigger).
+---
 
-📖 Learning Networking from Cisco, GeeksforGeeks, and freeCodeCamp.
+## 📊 GitHub Stats
 
-🌍 Based in Odisha, India.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhendu345&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=subhendu345&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu345&layout=compact&theme=tokyonight)
 
+---
 
-🛠️ Tech Stack :-
+## 🏆 GitHub Trophies
 
-DevOps Tools: Docker, Jenkins, Git, GitHub, Terraform (Basics)
+![Trophy](https://github-profile-trophy.vercel.app/?username=subhendu345&theme=tokyonight)
 
-Cloud Platforms: AWS (EC2, VPC, Route 53, CloudWatch, IAM)
+---
 
-Operating Systems: Ubuntu, Kali Linux
+## 🌱 Currently Learning
+- Kubernetes  
+- Cloud Security  
+- CI/CD Pipelines  
 
-Cybersecurity Exploration: Linux security, Honeypot Deployment, Traffic Analysis, OpenVPN Configurations
-Networking Basics: TCP/IP, OSI Model
+---
 
-
-🌟 Learning Journey :-
-
-
-Learning Platforms :- Roadmap.sh, ClassCentral, W3Schools,tryhackme,hack the box,overthewire.
-
-YouTube Channels :- NetworkChuck, Edureka, Cisco, IBM
-
-
-🛍️ Contact Me :-
-
-
-Email :- parhisubhendu20@gmail.com
-LinkedIn :- www.linkedin.com/in/subhendu-parhi
-
+## 📫 Contact Me
+- 📧 Email: parhisubhendu20@gmail.com  
+- 🌐 LinkedIn: https://linkedin.com/in/subhendu-parhi  
+- 🌍 Portfolio: https://subhendu1.netlify.app
