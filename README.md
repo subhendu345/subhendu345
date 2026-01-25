@@ -65,7 +65,6 @@ I love building real-world projects and learning modern infrastructure technolog
   <img src="https://github-profile-trophy.vercel.app/?username=subhendu345&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
-
 ---
 
 ## 🌱 Currently Learning
@@ -97,8 +96,8 @@ I love building real-world projects and learning modern infrastructure technolog
 ## 📫 Contact Me
 
 - 📧 Email: **parhisubhendu20@gmail.com**
-- 🔗 LinkedIn: https://linkedin.com/in/subhendu-parhi  
-- 🌍 Portfolio: https://subhendu1.netlify.app  
+- 🔗 LinkedIn: [https://linkedin.com/in/subhendu-parhi](https://linkedin.com/in/subhendu-parhi)  
+- 🌍 Portfolio: [https://subhendu.netlify.app](https://subhendu.netlify.app)  
 
 ---
 
