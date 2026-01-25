@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Subhendu%20Kumar%20Parhi&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Subhendu%20Kumar%20Parhi&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">🚀 Aspiring DevOps & Cybersecurity Engineer</h2>
@@ -50,17 +50,21 @@ I love building real-world projects and learning modern infrastructure technolog
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhendu345&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=subhendu345&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu345&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhendu345&show_icons=true&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=subhendu345&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu345&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhendu345&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhendu345&theme=radical&no-frame=true&margin-w=15" />
 </p>
+
 
 ---
 
