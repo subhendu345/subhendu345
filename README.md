@@ -21,21 +21,20 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,python,git,github,vscode,ubuntu"/>
 </p>
 
-## 📊 GitHub Statistics
-
+## github-profile-summary-cards
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subhendu345&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu345&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhendu345&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhendu345&theme=github-dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhendu345&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhendu345&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhendu345&theme=github-dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhendu345&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhendu345&theme=github_dark&utcOffset=5.5"/>
 </p>
-
 ## 📫 Connect
 - Email: parhisubhendu20@gmail.com
 - LinkedIn: https://linkedin.com/in/subhendu-parhi
