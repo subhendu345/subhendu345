@@ -41,4 +41,6 @@
 - Portfolio: https://subhendu1.netlify.app
 
 ## 🐍 Contribution Snake
-![](https://raw.githubusercontent.com/subhendu345/subhendu345/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/subhendu345/subhendu345/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
